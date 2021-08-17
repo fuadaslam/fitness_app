@@ -19,6 +19,8 @@
 ## How to use
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
+
+
 ```$bash
 # Clone this repository
 $ git clone https://github.com/femoraes0/fitness-ui.git
